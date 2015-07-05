@@ -1,6 +1,6 @@
 # 2048-Game
 
 Java
-Important Files:
+Files:
   GameBoard.java
   Tile.java
